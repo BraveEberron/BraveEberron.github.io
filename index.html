@@ -1,26 +1,6 @@
 --- layout: page title: My website subtitle: This is where I will tell my friends way too much about me use-site-title: true
 ---
 
-<div class="collapse navbar-collapse" id="main-navbar">
-  <ul class="nav navbar-nav navbar-right">
-    {% if site.data.pages.toc2[0] %} {% for item in site.data.pages.toc2 %}
-    <a>{{ item.title }}</a>
-    {% if item.subfolderitems[0] %}
-    <ul>
-      {% for entry in item.subfolderitems %}
-      <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-      {% if entry.subsubfolderitems[0] %}
-      <ul>
-        {% for subentry in entry.subsubfolderitems %}
-        <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
-        {% endfor %}
-      </ul>
-      {% endif %} {% endfor %}
-    </ul>
-    {% endif %} {% endfor %} {% endif %}
-  </ul>
-</div>
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
