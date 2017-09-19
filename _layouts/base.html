@@ -23,7 +23,14 @@ common-js:
 
     {% include gtm_body.html %}
   
-    {% include nav.html %}
+    
+    {% include generateDynamicMenu.html 
+      root="/content"
+      listClass=""
+      listItemClass=""
+      linkClass="make-the-internal-a-tag-inline-block-and-100%w/h"
+      activeClass="active"
+       %}
 
     {{ content }}
 
