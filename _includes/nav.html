@@ -14,27 +14,13 @@
       {% endif %}
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
-      {% for link in site.navbar-links %}
-        {% if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {% for childlink in link[1] %}
-                {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
-                {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li>
-            {% include navbarlink.html link=link %}
-          </li>
-        {% endif %}
-        {% endfor %}
-      </ul>
+    <div class="collapse navbar-collapse" id="main-navbar"></div>
+    {% include generateDynamicMenu.html 
+      root="/content"
+      listClass="nav navbar-nav navbar-right"
+      listItemClass="navlinks-container"
+      linkClass="navlinks-parent"
+      activeClass="active" %}
     </div>
 
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
