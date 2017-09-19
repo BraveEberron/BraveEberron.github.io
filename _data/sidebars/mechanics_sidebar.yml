@@ -1,0 +1,28 @@
+entries:
+- title: sidebar
+  product: Jekyll Doc Theme
+  version: 6.0
+  folders:
+    - title: Races
+      output: web
+      folderitems:
+
+      - title: Changeling
+        url: /changelings.html
+        output: web
+
+      - title: Dwarf
+        url: /dwarves.html
+        output: web
+
+    - title: New Foci
+      output: web
+      folderitems:
+
+      - title: Is a Living Weapon
+        url: /bears_a_dragonmark.html
+        output: web
+
+      - title: Bears a Dragonmark
+        url: /is_a_living_artifact.html
+        output: web
