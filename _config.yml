@@ -6,8 +6,3 @@ description: site to help run an eberron setting with the cypher system.
 
 collections:
   characters
-    output: true
-    permalink: /:collection/:name
-  rules
-    output: true
-    permalink: /:collection/:name
