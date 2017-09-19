@@ -29,11 +29,9 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Races:
-    - Dwarf: "google.com"
-    - Elves: "yahoo.com"
-    - Kobolds: 
-      - other: "thinkgeek.com"
-      - other2: "amazon.com"
+    - Dwarf: "https://google.com"
+    - Elves: "https://yahoo.com"
+    - Kobolds: "content/races/kobolds"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
