@@ -1,0 +1,8 @@
+<figure style="float: right; overflow:hidden; height:auto; width:auto;">
+	{% if {{include.url}} %}<a class="no_icon" target="_blank" href="{{include.url}}">{% endif %}
+		<img class="docimage" src="images/{{include.file}}" alt="{{include.alt}}" style="float: none; {% if {{include.max-width}} %}max-width:{{include.max-width}}; {% endif %} overflow:hidden;" />
+	{% if {{include.url}} %}</a>{% endif %}{% if {{include.caption}} %}
+	<figcaption style="float: none;">
+		{{include.caption}}
+	</figcaption>{% endif %}
+</figure>

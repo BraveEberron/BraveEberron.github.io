@@ -6,7 +6,7 @@ output: web
 topnav_title: Brave Eberron
 # this appears on the top navigation bar next to the home button
 
-site_title: Brave Eberron
+site_title: Cypher Eberron
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Eberron Tourism Inc.
@@ -37,7 +37,7 @@ feedback_subject_line: Brave Eberron Campaign Site
 feedback_email: eberron94@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
-# feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
@@ -72,7 +72,40 @@ defaults:
       layout: "page"
       comments: true
       search: true
+      sidebar: 
+      topnav: topnav
+      toc: false
+  -
+    scope:
+      path: "pages/mechanics"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
       sidebar: mechanics_sidebar
+      topnav: topnav
+      toc: false
+  -
+    scope:
+      path: "pages/lore"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: lore_sidebar
+      topnav: topnav
+      toc: false
+  -
+    scope:
+      path: "pages/items"
+      type: "pages"
+    values:
+      layout: "page"
+      comments: true
+      search: true
+      sidebar: items_sidebar
       topnav: topnav
       toc: false
   -

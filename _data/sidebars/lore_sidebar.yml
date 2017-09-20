@@ -1,0 +1,233 @@
+entries:
+- title: sidebar
+  product: Lore
+  folders:
+    - title: Nations
+      output: web
+      folderitems:
+
+      - title: Aundair
+        url: /aundair.html
+        output: web
+
+      - title: Breland
+        url: /breland.html
+        output: web
+
+      - title: The Mournland
+        url: /mournland.html
+        output: web
+
+      - title: Karrnath
+        url: /karrnath.html
+        output: web
+
+      - title: Thrane
+        url: /thrane.html
+        output: web
+
+        subfolders:
+        - title: Other Regions
+          output: web
+          subfolderitems:
+
+          - title: Darguun
+            url: /darguun.html
+            output: web
+
+          - title: Demon Wastes
+            url: /wastes.html
+            output: web
+
+          - title: Droaam
+            url: /droaam.html
+            output: web
+
+          - title: The Eldeen Reaches
+            url: /eldeen.html
+            output: web
+
+          - title: Lhazaar Principalities
+            url: /lhazaar.html
+            output: web
+
+          - title: The Mror Holds
+            url: /mror.html
+            output: web
+
+          - title: Q'barra
+            url: /qbarra.html
+            output: web
+
+          - title: The Talenta Plains
+            url: /talena.html
+            output: web
+
+          - title: Valenar
+            url: /valenar.html
+            output: web
+
+          - title: Zilargo
+            url: /zilargo.html
+            output: web
+
+      subfolders:
+      - title: Beyond Khorvaire
+        output: web
+        subfolderitems:
+
+        - title: Aerenal
+          url: /aerenal.html
+          output: web
+
+        - title: Argonnessen
+          url: /argonnessen.html
+          output: web
+
+        - title: Frostfall
+          url: /frostfall.html
+          output: web
+
+        - title: Khyber
+          url: /khyber.html
+          output: web
+
+        - title: Sarlona
+          url: /sarlona.html
+          output: web
+
+        - title: Xen'drik
+          url: /xendrik.html
+          output: web
+
+    - title: History
+      output: web
+      folderitems:
+
+      - title: Creation of the World
+        url: /lastwar.html
+        output: web
+      
+      - title: The Last War
+        url: /lastwar.html
+        output: web
+    
+    - title: Houses
+      output: web
+      folderitems:
+
+      - title: House Cannith
+        url: /cannith.html
+        output: web
+
+      - title: House Deneith
+        url: /deneith.html
+        output: web
+
+      - title: House Ghallanda
+        url: /ghallanda.html
+        output: web
+
+      - title: House Jorasco
+        url: /jorasco.html
+        output: web
+
+      - title: House Kundarak
+        url: /kundarak.html
+        output: web
+
+      - title: House Lyrandar
+        url: /lyrandar.html
+        output: web
+
+      - title: House Medani
+        url: /medani.html
+        output: web
+
+      - title: House Orien
+        url: /orien.html
+        output: web
+
+      - title: House Phiarlan
+        url: /phiarlan.html
+        output: web
+
+      - title: House Sivis
+        url: /sivis.html
+        output: web
+
+      - title: House Tharashk
+        url: /aurum.html
+        output: web
+
+      - title: House Thuranni
+        url: /thuranni.html
+        output: web
+
+      - title: House Vadalis
+        url: /vadalis.html
+        output: web
+
+    - title: Organizations
+      output: web
+      folderitems:
+
+      - title: The Aurum
+        url: /aurum.html
+        output: web
+
+      - title: The Blood of Vol
+        url: /blood_of_vol.html
+        output: web
+
+      - title: The Chamber
+        url: /chamber.html
+        output: web
+
+      - title: Church of the Siler Flame
+        url: /church_of_the_silver_flame.html
+        output: web
+
+      - title: Cults of the Dragon Below
+        url: /cults_of_the_dragon_below.html
+        output: web
+
+      - title: The Dreaming Dark
+        url: /dreaming_dark.html
+        output: web
+
+      - title: The Gatekeepers
+        url: /gatekeepers.html
+        output: web
+
+      - title: The Library of Korranberg
+        url: /library_of_korranberg.html
+        output: web
+
+      - title: The Lords of Dust
+        url: /lords_of_dust.html
+        output: web
+
+      - title: Morgrave University
+        url: /morgrave_university.html
+        output: web
+
+      - title: Order of the Emerald Claw
+        url: /order_of_the_emerald_claw.html
+        output: web
+
+      - title: The Royal Families
+        url: /royal_families.html
+        output: web
+
+      - title: The Tweleve
+        url: /tweleve.html
+        output: web
+
+      - title: Wardens of the Wood
+        url: /wardens_of_the_wood.html
+        output: web
+
+      - title: The Wayfinder Foundation
+        url: /wayfinder_foundation.html
+        output: web
