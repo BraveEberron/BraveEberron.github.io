@@ -46,6 +46,58 @@ entries:
         url: /warforged.html
         output: web
 
+    - title: Dragonmarks
+      output: web
+      folderitems:
+
+      - title: Mark of Detection
+        url: /mark_detection.html
+        output: web
+
+      - title: Mark of Finding
+        url: /mark_finding.html
+        output: web
+
+      - title: Mark of Handling
+        url: /mark_handling.html
+        output: web
+
+      - title: Mark of Healing
+        url: /mark_healing.html
+        output: web
+
+      - title: Mark of Hospitality
+        url: /mark_hospitality.html
+        output: web
+
+      - title: Mark of Making
+        url: /mark_making.html
+        output: web
+
+      - title: Mark of Passage
+        url: /mark_passage.html
+        output: web
+
+      - title: Mark of Scribing
+        url: /mark_scribing.html
+        output: web
+
+      - title: Mark of Sentinel
+        url: /mark_sentinel.html
+        output: web
+
+      - title: Mark of Shadow
+        url: /mark_shadow.html
+        output: web
+
+      - title: Mark of Storm
+        url: /mark_storm.html
+        output: web
+
+      - title: Mark of Warding
+        url: /mark_warding.html
+        output: web
+
     - title: New Foci
       output: web
       folderitems:

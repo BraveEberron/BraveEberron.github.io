@@ -1,8 +1,7 @@
 ---
-
+title: Bears a Dragonmark
+permalink: bears_a_dragonmark.html
 ---
-
-# Is an Unstoppable Machine
 
 
 ## Connection

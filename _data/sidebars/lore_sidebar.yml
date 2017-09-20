@@ -2,7 +2,7 @@ entries:
 - title: sidebar
   product: Lore
   folders:
-    - title: Nations
+    - title: Khorvaire
       output: web
       folderitems:
 
@@ -71,35 +71,34 @@ entries:
             url: /zilargo.html
             output: web
 
-      subfolders:
-      - title: Beyond Khorvaire
+    - title: Beyond Khorvaire
+      output: web
+      folderitems:
+
+      - title: Aerenal
+        url: /aerenal.html
         output: web
-        subfolderitems:
 
-        - title: Aerenal
-          url: /aerenal.html
-          output: web
+      - title: Argonnessen
+        url: /argonnessen.html
+        output: web
 
-        - title: Argonnessen
-          url: /argonnessen.html
-          output: web
+      - title: Frostfall
+        url: /frostfall.html
+        output: web
 
-        - title: Frostfall
-          url: /frostfall.html
-          output: web
+      - title: Khyber
+        url: /khyber.html
+        output: web
 
-        - title: Khyber
-          url: /khyber.html
-          output: web
+      - title: Sarlona
+        url: /sarlona.html
+        output: web
 
-        - title: Sarlona
-          url: /sarlona.html
-          output: web
-
-        - title: Xen'drik
-          url: /xendrik.html
-          output: web
-
+      - title: Xen'drik
+        url: /xendrik.html
+        output: web
+    
     - title: History
       output: web
       folderitems:
