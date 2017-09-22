@@ -3,7 +3,8 @@ title: Mechanics
 permalink: mechanics_landing.html
 ---
 
-hello world mechanics
+## Helpful Links
+[Getting Started with the Cypher System](http://cypher-system.com/gameplay/)
 
 TODO:
 - add major links

@@ -2,6 +2,38 @@ entries:
 - title: sidebar
   product: Mechanics
   folders:
+    - title: Rules
+      output: web
+      folderitems:
+
+      - title: Character Creation
+        url: /character_creation.html
+        output: web
+
+      - title: Artifact Charges
+        url: /artifact_charges.html
+        output: web
+
+      - title: Companion Rolls
+        url: /companion_rolls.html
+        output: web
+
+      - title: XP and Karma
+        url: /xp_and_karma.html
+        output: web
+
+      - title: List of Skills
+        url: /list_of_skills.html
+        output: web
+
+      - title: List of Foci
+        url: /list_of_foci.html
+        output: web
+
+      - title: List of Descriptors
+        url: /list_of_descriptors.html
+        output: web
+
     - title: Races
       output: web
       folderitems:
