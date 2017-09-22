@@ -102,10 +102,10 @@ entries:
       output: web
       folderitems:
 
-      - title: Is a Living Weapon
+      - title: Bears a Dragonmark
         url: /bears_a_dragonmark.html
         output: web
 
-      - title: Bears a Dragonmark
+      - title: Is a Living Artifact
         url: /is_a_living_artifact.html
         output: web
