@@ -9,19 +9,19 @@ The gnomes of `House Sivis` are the carriers of the Mark of Scribing and through
 
 `House Sivis` also has its hand in the business as notories, using arcane mark and illusory script to certify or hide important documents. Unmarked members are usually translators, mediators, messengers and some truely charismatic gnomes become diplomats.
 
-## Descriptor
-**SMART**: +2 to your intellect pool.  
+## Least
 **SKILL**: you are trained in quickly copying text and gain an additional language.
 
-## Least
-**ARCANE MARK**: you to inscribe your personal rune or mark, which can consist of no more than six characters. The writing can be visible or invisible. An arcane mark spell enables you to etch the rune upon any substance without harm to the material upon which it is placed. If an invisible mark is made, a detect magic spell causes it to glow and be visible, though not necessarily understandable. The mark cannot be dispelled, but it can be removed by the caster or by an erase spell. If an arcane mark is placed on a living being, the effect gradually fades in about a month. Action.
+## Ritual
+### Least
+**ARCANE MARK**: you inscribe your personal rune or mark, which can consist of no more than six characters. The writing can be visible or invisible. An arcane mark spell enables you to etch the rune upon any substance without harm to the material upon which it is placed. If an invisible mark is made, a detect magic spell causes it to glow and be visible, though not necessarily understandable. The mark cannot be dispelled, but it can be removed by the caster or by an erase spell. If an arcane mark is placed on a living being, the effect gradually fades in about a month. Action.
 
-**DECIPHER TEXT**: (1 / day)
+**DECIPHER TEXT**: you are able to understand anything contained within a single text. Action.
 
-## Lesser
-**SECRET PAGE**: (1 / day)
+### Lesser
+**SECRET PAGE**: 
 
-**ILLUSIONARY SCRIPT**: (1 / day)
+**ILLUSIONARY SCRIPT**: 
 
-## Greater
-**SENDING**: (1 / day) 
+### Greater
+**SENDING**: 

@@ -9,21 +9,18 @@ The schism that occurred during the Last War between the older house Phiarlan an
 
 House Phiarlan controls the mysterious Artisans Guild. Outwardly a group of entertainers and companions, they are in reality a vast spy web operating throughout Breland, Thrane, and Aundair. House Thuranni and their Shadow Network are based in the Lhazaar Principalities who stretch their influence into Karrnath, Droaam, Q'Barra, and even into the ranks of the Emerald Claw, at the behest of the fickle princes. Both houses also employ unmarked spies, disguised as dancers, musicians, and artists.
 
-## Descriptor
-QUICK: +2 to your speed pool.  
+## Least
 SKILL: you are trained in stealth or performance.
 
-## Least
-DARKNESS: (1 / day)
+## Ritual
+### Least
+DARKNESS: 
 
-MINOR IMAGE: (2 / day)
+MINOR IMAGE: 
 
-GATHER INFO: Improve training in gathering information.
+### Lesser
 
-## Lesser
-TODO: (1 / day)
+SCRYING: 
 
-SCRYING: (1 / day)
-
-## Greater
-PRYING EYES: (1 / day)
+### Greater
+PRYING EYES: 
