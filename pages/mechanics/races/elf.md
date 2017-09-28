@@ -24,6 +24,7 @@ None.
 
 
 ### Tier 3
+**ANCIENT RACE**: at the start of each session, when you have less than 2 karma, you go up to 2 karma. Enabler.
 
 
 ### Tier 4
@@ -33,4 +34,4 @@ None.
 
 
 ### Tier 6
-
+**UNDYING DEEDS**: at the start of each session, when you have less than 3 karma, you go up to 3 karma. Enabler.

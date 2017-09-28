@@ -16,7 +16,7 @@ None.
 ## Additional Type Options:
 
 ### Tier 1
-**KEEP ON FIGHTING**: you can spend points from a pool even if it would be depleted by that spending. The points that are left over count as irreducible damage. Enabler.
+**KEEP ON FIGHTING**: As long as you have 1 point in a pool, you can spend however many points. Those not able to be covered by the initial pool then come out of other pools, using the damage path (might, speed, intellect). Enabler.
 
 ### Tier 2
 

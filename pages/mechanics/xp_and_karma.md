@@ -32,9 +32,9 @@ To advance to next tier you must buy: *Increase Ability*, *Move Towards Perfecti
     - gain a dragonmark
 
 # Karma
-Karma is a new mechanic in this system. For this game, GM Intrusions no longer give you XP, instead you gain karma.
+Karma is a new mechanic in this system. For this game, GM Intrusions no longer give you XP, instead you gain karma. Also at the start of a session, if you have no karma you gain 1.
 
-Below is a list of what to spend kaema. Because of the changes to XP, karma is meant to be spent on short term things.
+Below is a list of what to spend karma. Because of the changes to XP, karma is meant to be spent on short term things.
 
 ## Prevent Disaster: 1 karma
 - reroll a die, take better result

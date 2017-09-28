@@ -13,15 +13,17 @@ The Warning Guild is well known for its personal protection services and anyone 
 ## Start
 **SKILL**: you have advantage in spotting stationary objects. Enabler.
 
-## Least
-**DETECT MAGIC**: (2 / day) you are able to detect the location of any magical items within a short distance for the next minute. Action.
+## Rituals
 
-**DETECT POISON**: (2 / day) you are able to detect the location of any poison within a short distance for the next minute. Action.
+### Least
+**DETECT MAGIC**: you are able to detect the location of any magical items within a short distance for the next hour. Action.
 
-## Lesser
-**DETECT SCRY**: you have five advantages passively notice scrying attempts. Enabler.
+**DETECT POISON**: you are able to detect the location of any poison within a short distance for the next hour. Action.
 
-**SEE INVISIBILITY**: (1 / day) you are able to ignore the invisibility of anything in sight and see it normally. Mundane means of hiding can still prevent you from seeing the target. This lasts for one minute. Action.
+### Lesser
+**DETECT SCRY**: you have five advantages passively notice scrying attempts for the next 10 hours. Enabler.
 
-## Greater
-**DETECT MOVEMENT**: (1 / day) you are able to detect all movement within an immediate distance of you for 1 minute. By spending 3 effort, you can increase the range to short. By spending 6 effort, you can increase the range to long. If a creatures is not moving, but still must breath, you can attempt to find them by using your making a speed task to spot with 2 advantage. Action.
+**SEE INVISIBILITY**: you are able to ignore the invisibility of anything in sight and see it normally. Mundane means of hiding can still prevent you from seeing the target. This lasts for 10 minutes. Action.
+
+### Greater
+**DETECT MOVEMENT**: you are able to detect all movement within an immediate distance of you for 1 minute. By spending 3 effort, you can increase the range to short. By spending 6 effort, you can increase the range to long. If a creatures is not moving, but still must breath, you can attempt to find them by using your making a speed task to spot with 2 advantage. Action.
