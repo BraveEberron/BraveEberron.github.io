@@ -27,6 +27,9 @@ noun who verbs.”
 Focus is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence “I am an adjective noun who verbs.”  
 [Click here for available foci.](list_of_foci.html)
 
+## Race
+In addition to the first three choices, you need to pick a race. This will effect how NPCs see you and what options are available to you. Some races have special abilities they can take like flavors and some have exclusive access to dragonmarks.
+
 ## Miscellaneous
 
 ### Skills
@@ -37,14 +40,14 @@ Depending on your choices, you might be given the option to choose skills. The C
 Lastly, while not listed in the book. I would like you to create a backstory and answer a few questions to help me understand your character.  
 The backstory does not need to be long, and the book provides starting ideas for each descriptor and focus.
 
-{% include note.html content="The starting adventure involves getting on an airship bound for Sharn." %}
+{% include note.html content="The starting adventure involves a festival in Sharn." %}
 
 #### General
 - What were you doing during the last war?
 - What nation did you support?
 - Are you part of a house?
-- Why are you heading to Sharn?
-- What was your call to adventure?
+- Why are you in Sharn?
+- What was your call to adventure? 
 
 #### Combat
 - How do you defend yourself?

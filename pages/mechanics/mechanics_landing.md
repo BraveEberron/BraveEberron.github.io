@@ -167,28 +167,4 @@ Intellect task, difficulty # of points healed, only once per day, can retry on f
 **Permanent Damage**: Special, never heals normally.  
 
 # XP
-## Immediate Benefits: 1 xp
-- Reroll, use better
-- Avoid GM Intrusion
-
-## Short / Medium Term Benefits: 2 xp
-- Local/Limited Skill or Ability: a small very selective skill from your past or picked up from a mission (GM approval)
-
-## Long Term Benefits: 3 xp
-- Familiarity: +1 Bonus on a skill
-- Contact: NPC contact, cost can be split between party
-- Home: Homebase, cost can be split between party
-- Title: Gain position of importance or prestige
-- Wealth: Gain a large amount of wealth as gift, inheritance, enough to never worry about housing, food, or simple equipment
-- Artifact: Gain an artifact, you must also pay money if buying or rolling to craft
-
-## Character Advancement: 4 xp
-To advance to next tier you must buy: *Increase Ability*, *Move Towards Perfection*, *Extra Effort*, and either *Skills* or a single *Other Option*. Once an option is purchased it cannot be purchased again until the next tier.  
-- Increase Ability: +4 to your stat pool, can divide among pools
-- Move Towards Perfection: Gain an edge in a stat of choice
-- Extra Effort: Effort Increases by 1
-- Skills: Gain training in one skill of choice other than attack or defense. If already trained then specialized
-- Other Options: Pick one
-	- reduce wear cost of armor
-	- add 2 to recovery roll
-	- new ability from current or lower tier
+[Changes to XP and Karma](xp_and_karma.html)

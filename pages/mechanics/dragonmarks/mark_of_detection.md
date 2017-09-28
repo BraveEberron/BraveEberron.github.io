@@ -10,9 +10,8 @@ The House Medani half-elves are the bearers of this mark. The house began as a m
 
 The Warning Guild is well known for its personal protection services and anyone holding a meeting with less than trustworthy business partners would do well to spring for a member from the guild to attend. Members of the house who do not manifest the mark often serve as sentries and guards.
 
-## Descriptor
-**SMART**: +2 to your intellect pool.  
-**SKILL**: you are trained in spotting stationary objects. Enabler.
+## Start
+**SKILL**: you have advantage in spotting stationary objects. Enabler.
 
 ## Least
 **DETECT MAGIC**: (2 / day) you are able to detect the location of any magical items within a short distance for the next minute. Action.
