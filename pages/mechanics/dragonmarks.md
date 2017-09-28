@@ -17,3 +17,12 @@ Each mark grants you advantage in tasks related to it. Along with this benefit, 
 
 ### Player Intrusions
 Along with useful rituals, a mark allows you to perform player intrusions with more aspects.
+
+# Unorganized Notes about Dragonmarks
+Dragonmarks are usually passed down by bloodline within a house. Someone manifesting a mark outside of the house is quickly welcomed into the house. 
+
+Relationship between houses is banned because it usually leads to Aberrant Marks which are powerful and destructive. They belong to no house and are feared. So each house agreed to the ban on children between houses.
+
+You can also have a mark and leave the house, but that carries with it some negative effects. Each house is basically a mega company and they don't like competition that much.
+
+For more info on each house, I recommend the [Eberron wiki](http://eberron.wikia.com/wiki/The_Dragonmarked_Houses).
