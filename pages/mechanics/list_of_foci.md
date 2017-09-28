@@ -116,6 +116,3 @@ If you find a focus that you like that is not on this list, or would like to mod
 - smites the wicked
 - steals
 - throws boulders
-
-### Custom
-- [is a living artifact](is_a_living_artifact.html)

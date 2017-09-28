@@ -1,6 +1,7 @@
 ---
 title: Bears a Dragonmark
 permalink: bears_a_dragonmark.html
+published: false
 ---
 
 

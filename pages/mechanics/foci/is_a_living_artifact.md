@@ -1,6 +1,7 @@
 ---
 title: Is a Living Artifact
 permalink: is_a_living_artifact.html
+published: false
 ---
 
 At some point, you were given life by extrodinary arcane means. Whether you were born this way or died and we're brought back to life, you are powered by an artifact. 

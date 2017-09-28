@@ -129,15 +129,3 @@ entries:
       - title: Mark of Warding
         url: /mark_warding.html
         output: web
-
-    - title: New Foci
-      output: web
-      folderitems:
-
-      - title: Bears a Dragonmark
-        url: /bears_a_dragonmark.html
-        output: web
-
-      - title: Is a Living Artifact
-        url: /is_a_living_artifact.html
-        output: web
