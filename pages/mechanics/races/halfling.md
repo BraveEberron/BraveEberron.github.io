@@ -19,11 +19,13 @@ None.
 ### Tier 1
 
 ### Tier 2 
+**RESILIENT**: You have +1 armor against ambient damage caused by falling, cold, or heat. Enabler.
 
 ### Tier 3
 
 ### Tier 4
 
 ### Tier 5
+**EXTEREME SURVIVOR**: You have +1 armor against ambient damage caused by falling, cold, or heat. Enabler.
 
 ### Tier 6

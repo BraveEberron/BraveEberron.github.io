@@ -20,6 +20,7 @@ None.
 ### Tier 1
 
 ### Tier 2
+**CYPHER JOURNEYMAN**: you can bear an additional cypher.
 
 ### Tier 3
 

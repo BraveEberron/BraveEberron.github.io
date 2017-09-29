@@ -18,7 +18,6 @@ None.
 ## Additional Type Options:
 
 ### Tier 1
-**ARMOR TRAINING**: Heavy Armor you wear counts as Medium armor and Medium armor you wear counts as Light armor for the purpose of abilites and speed penalty. Enabler.
 
 ### Tier 2
 

@@ -19,11 +19,14 @@ None.
 
 ### Tier 1
 
+
 ### Tier 2
+**STUCK BETWEEN WORLDS**: when you spend a karma to reroll a die, you can roll a third time. Enabler. Cannot be combined with other reroll modifiers.
 
 ### Tier 3
 
 ### Tier 4
+**MASTER OF BOTH WORLDS**: when you spend a karma to reroll a die, your next roll is also rolled twice. Enabler. Cannot be combined with other reroll modifiers.
 
 ### Tier 5
 
