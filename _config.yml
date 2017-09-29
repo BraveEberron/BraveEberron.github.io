@@ -124,9 +124,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
       search: true
-      sidebar: mechanics_sidebar
+      sidebar: 
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
