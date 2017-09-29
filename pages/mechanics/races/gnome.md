@@ -20,13 +20,13 @@ None.
 ### Tier 1
 
 ### Tier 2
-**CYPHER JOURNEYMAN**: you can bear an additional cypher.
 
 ### Tier 3
+**CYPHER JOURNEYMAN**: you can bear an additional cypher.
 
 ### Tier 4
-**CYPHER MASTER**: you can bear an additional cypher.
 
 ### Tier 5
+**CYPHER MASTER**: you can bear an additional cypher.
 
 ### Tier 6

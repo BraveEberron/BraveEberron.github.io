@@ -24,16 +24,15 @@ None.
 
 
 ### Tier 2
-**RULERS OF THE WORLD**: when you spend a karma to reroll a die, you can add a 1d6 to the result. Enabler. Cannot be combined with other reroll modifiers.
 
 
 ### Tier 3
-
+**RULERS OF THE WORLD**: when you spend a karma to reroll a die, you can add a 1d6 to the result. Enabler. Cannot be combined with other reroll modifiers.
 
 ### Tier 4
-**MASTER OF KHORVAIRE**: when you spend a karma to reroll a die, you restore 1d6 points to a pool of your choice. Enabler. Cannot be combined with other reroll modifiers.
 
 ### Tier 5
+**MASTER OF KHORVAIRE**: when you spend a karma to reroll a die, you restore 1d6 points to a pool of your choice. Enabler. Cannot be combined with other reroll modifiers.
 
 
 ### Tier 6

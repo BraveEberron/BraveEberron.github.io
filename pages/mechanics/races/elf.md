@@ -31,7 +31,7 @@ None.
 
 
 ### Tier 5
-
+**UNDYING DEEDS**: at the start of each session, when you have less than 3 karma, you go up to 3 karma. Enabler.
 
 ### Tier 6
-**UNDYING DEEDS**: at the start of each session, when you have less than 3 karma, you go up to 3 karma. Enabler.
+
