@@ -3,8 +3,6 @@ title: Lore
 permalink: lore_landing.html
 ---
 
-hello world lore
-
 <ul id="profileTabs" class="nav nav-tabs">
     <li class="active"><a href="#photo" data-toggle="tab">Photo Map</a></li>
 	<li><a href="#paper" data-toggle="tab">Paper Map</a></li>
@@ -44,4 +42,3 @@ The great dragonmarked families are the barons of industry and commerce througho
 ### Dragonshards
 
 Ancient legends and creation myths describe Eberron as a world in three parts: the ring above, the subterranean realm below, and the land between. Each of these world sections is tied to a great dragon of legend—Siberys, Khyber, and Eberron. Each section of the world produces stones and crystals imbued with arcane power—dragonshards. With dragonshards, dragonmarks can be made more powerful, elementals can be controlled and harnessed, and magic items of all sorts can be crafted and shaped. These shards, however, are rare and diffi cult to come by, making them expensive and often the goals of great quests and adventures.
-
