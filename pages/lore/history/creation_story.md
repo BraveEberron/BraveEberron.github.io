@@ -1,7 +1,7 @@
 ---
 title: Creation of the World 
 permalink: creation_story.html
-published: false
+published: true
 ---
 
 In the mythic past the world was one. Siberys, Eberron, and Khyber, the first and greatest of dragonkind, ruled over this mystical unity of all things. In their interrelationship these progenitor wyrms discovered or created the Prophecy, and its words brought reality into being.
@@ -13,4 +13,3 @@ Finally, Siberys turned to confront Khyber, to stop the dark dragon from consumi
 When Khyber lunged, Eberron snaked aside. The bloodless battle, a fierce dance, continued for eons, neither dragon gaining ascendancy over the other. At last, Khyber grew tired, and Eberron enfolded and imprisoned Khyber in her own body. The struggles of the progenitor wyrms came at last to an end.
 
 Both dragons slumbered after their long warring and hardened into earth. And so the world was born. Eberron forming its surface and Khyber its dark depths. The fragments of Siberys's broken body encircle Eberron in a great ring that shines in the night.
-

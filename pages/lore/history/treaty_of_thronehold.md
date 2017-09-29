@@ -1,6 +1,6 @@
 ---
-title: The Last War 
-permalink: lastwar.html
+title: The Treaty of Thronehold
+permalink: treaty_of_thronehold.html
 published: true
 ---
 
