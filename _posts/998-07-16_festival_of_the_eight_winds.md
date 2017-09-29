@@ -1,8 +1,8 @@
 ---
-title:  Festival of the Eight Winds
+title: "Festival of the Eight Winds"
 published: true
 permalink: news_eight_winds.html
-summary: The grand tradition of the festival of the Eight Winds returns.
+summary: "The grand tradition of the festival of the Eight Winds returns."
 tags: [news, holiday]
 ---
 In one week, The Festival of the Eight Winds returns after it's cancellation for the past five years due to the war and recovery efforts. But the locals have petitioned the mayor's office to bring back the festival. They even went to far as to gain public sponsorship from House Cannith and House Medani.
