@@ -16,11 +16,11 @@ None.
 ## Additional Type Options:
 
 ### Tier 1
-**KEEP ON FIGHTING**: As long as you have 1 point in a pool, you can spend however many points. Those not able to be covered by the initial pool then come out of other pools, using the damage path (might, speed, intellect). Enabler.
 
 ### Tier 2
 
 ### Tier 3
+**KEEP ON FIGHTING**: As long as you have 1 point in a pool, you can spend however many points. Those not able to be covered by the initial pool then come out of other pools, using the damage path (might, speed, intellect). Enabler.
 
 ### Tier 4
 
