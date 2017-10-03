@@ -203,16 +203,8 @@ entries:
       #   url: /aurum.html
       #   output: web
 
-      # - title: The Blood of Vol
-      #   url: /blood_of_vol.html
-      #   output: web
-
       # - title: The Chamber
       #   url: /chamber.html
-      #   output: web
-
-      # - title: Church of the Siler Flame
-      #   url: /church_of_the_silver_flame.html
       #   output: web
 
       # - title: Cults of the Dragon Below
@@ -235,9 +227,9 @@ entries:
       #   url: /lords_of_dust.html
       #   output: web
 
-      # - title: Morgrave University
-      #   url: /morgrave_university.html
-      #   output: web
+      - title: Morgrave University
+        url: /morgrave_university.html
+        output: web
 
       # - title: Order of the Emerald Claw
       #   url: /order_of_the_emerald_claw.html
@@ -255,6 +247,6 @@ entries:
       #   url: /wardens_of_the_wood.html
       #   output: web
 
-      # - title: The Wayfinder Foundation
-      #   url: /wayfinder_foundation.html
-      #   output: web
+      - title: The Wayfinder Foundation
+        url: /wayfinder_foundation.html
+        output: web
