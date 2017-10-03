@@ -1,0 +1,75 @@
+entries:
+- title: sidebar
+  product: Items
+  folders:
+    - title: Equipment
+      output: web
+      folderitems:
+
+      - title: Weapons
+        url: /aundair.html
+        output: web
+
+      - title: Armor
+        url: /breland.html
+        output: web
+
+      - title: Gear
+        url: /mournland.html
+        output: web
+
+      - title: Materials
+        url: /karrnath.html
+        output: web
+
+    - title: Cyphers
+      output: web
+      folderitems:
+
+      - title: Aerenal
+        url: /aerenal.html
+        output: web
+
+      - title: Argonnessen
+        url: /argonnessen.html
+        output: web
+
+      - title: Frostfall
+        url: /frostfall.html
+        output: web
+
+      - title: Khyber
+        url: /khyber.html
+        output: web
+
+      - title: Sarlona
+        url: /sarlona.html
+        output: web
+
+      - title: Xen'drik
+        url: /xendrik.html
+        output: web
+    
+    - title: Artifacts
+      output: web
+      folderitems:
+
+      - title: Creation of the World
+        url: /creation_story.html
+        output: web
+      
+      - title: The Last War
+        url: /lastwar.html
+        output: web
+
+      - title: The Day of Mourning
+        url: /day_of_mourning.html
+        output: web
+
+      - title: The Treaty of Thronehold
+        url: /treaty_of_thronehold.html
+        output: web
+    
+    
+
+

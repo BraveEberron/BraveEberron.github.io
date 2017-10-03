@@ -22,4 +22,4 @@ Each time an artifact is used, you make a depletion roll. You roll a 1d6. On a 1
 ## Restoring Charges
 Powerful artificers are capable of restoring charges to artifacts by using other magical items. With the right amount of gold, those business minded artificers might be willing to recharge your Artifact from their personal supply.
 
-House Cannith holds this secret lse, but they may be willing to teach those they hold in high regard.
+House Cannith holds this secret, but they may be willing to teach those they hold in high regard.
