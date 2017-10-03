@@ -4,7 +4,7 @@ permalink: lyrandar.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Lyrandar is a half-elven dragonmarked house throughout Khorvaire with its enclave located on Stormhome an island city-state just north of Aundair.
 As is common among other dragonmarked houses, Lyrandar is led by a baron (patriarch or matriarch). Some in the house refer to the baron as "Firstborn", believing that Lyran and Selavash, the ancient ancestors of House Lyrandar and the spiritual ancestors of the Khoravar race, speak through that individual.

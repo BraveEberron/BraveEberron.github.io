@@ -4,7 +4,7 @@ permalink: cannith.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Cannith is a human dragonmarked house whose members are well known for their innovation and advancements in technology. They are responsible for technological wonders such as the Warforged and the Lightning rail. House Cannith provide repair services and the house's gorgon mark is a known and trusted symbol that appears on magical and mundane items. Through past wars Cannith have become the most politically powerful Dragonmarked House.
 

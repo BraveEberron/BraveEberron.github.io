@@ -2,7 +2,7 @@
 title: Mark of Hospitality
 permalink: mark_hospitality.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Hospitality grants those who bear it powers related to both food and shelter.
 
 House Ghallanda members bear the Mark of Hospitality and make use of their abilities both on their native plains as well as running the lucrative Hostelers Guild. While the guild may not own every inn and restaurant in town they do enforce strict standards that must match their own levels of quality and comfort. Those who lack dragonmarks within the house are still able to run some of the finest establishments in all of Khorvaire and, mark or no, members of House Ghallanda take pride in their services.

@@ -2,7 +2,7 @@
 title: Mark of Detection
 permalink: mark_detection.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 
 > The Mark of Detection gifts the marked with the ability to ferret out danger whether from an ambush or a cup of poisoned wine.
 

@@ -4,7 +4,7 @@ permalink: thuranni.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Thuranni is an elven dragonmarked house which was once a part of House Phiarlan and has become their direct rivals competing in entertainment and espionage. House Thuranni is the youngest of the dragonmarked houses and lives a double life, to the public they are artists, entertainers and beautiful courtiers however, that is far from the truth. House Phiarlan is still larger and stronger than House Thuranni, leading the way in information gathering and spying however, there is one field that House Thuranni surpasses their cousins, assassinations.  
 

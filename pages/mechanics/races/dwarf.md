@@ -3,7 +3,7 @@ title: Dwarf
 permalink: dwarf.html
 ---
 
-<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 Dwarves are widely accepted across Khorvaire and receive little prejudice as they make a large minority in every nation. Dwarves can be found in all lines of work, from Inquisitives to bankers to smiths and politicians. Dwarves are sometimes stereotyped as money obsessed alcoholics, which is far from the truth, at least for some. Dwarves hold their family and clans dear to them, so dear that throughout their history they have fought amongst each other and even to this day the Dwarven clans hold grudges. Dwarves now live all over Khorvaire and even in Riedra.
 

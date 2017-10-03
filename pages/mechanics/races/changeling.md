@@ -3,7 +3,7 @@ title: Changeling
 permalink: changeling.html
 ---
 
-<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 Changelings have long been persecuted by other races, seen at best as tricksters and con-artists, at worst as thieves and assassins. Many people find it hard to trust changelings, and while their talents make them natural spies and criminals, in reality a changeling is just as likely as any creature to turn to good or evil. Some changelings work hard to remove this stigma, but each time a changeling is caught robbing from a wealthy merchant or sneaking about where they are not welcome, it only perpetuates the stereotype.
 

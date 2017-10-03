@@ -3,7 +3,7 @@ title: Shifter
 permalink: shifter.html
 ---
 
-<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 With both humans and lycanthropes among their distant ancestors, shifters posses just a small portion of their forefathers' shape-shifting abilities. They cannot transform wholly into an animal but can instead shift parts of their body to become animal-like for short periods of time. In 832 YK the Church of the Silver Flame led an inquisition to wipe out all lycanthropes in Khorvaire, Shifters included. The inquisition lasted fifty years killing most lycanthropes and driving the survivors deep into the Eldeen Reaches.
 

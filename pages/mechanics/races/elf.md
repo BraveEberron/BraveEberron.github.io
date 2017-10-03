@@ -3,7 +3,7 @@ title: Elf
 permalink: elf.html
 ---
 
-<img src='images/races/{{page.title}}.png' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.png' alt='{{pages.title}}' style="float:right; width:25%;">
 
 The Elves of Eberron are known to be a strange and diverse people. Humans will often find Elves to be as strange as they find Orcs and Goblins. The Elves who live among Humans are viewed as approachable as they have integrated with their neighbors now having similar ideologies as Humans. The Elves of Aerenal and Valenar are distant from other races and care little for affairs outside their borders as they view most other races as short-sighted and petty. Despite their views of outsiders The Valenar and Aerenal Elves are willing to trade and interact with other nations though, neither of these Elven communities welcome visitors.  
 

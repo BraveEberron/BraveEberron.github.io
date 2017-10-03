@@ -2,7 +2,7 @@
 title: Mark of Passage
 permalink: mark_passage.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Passage grants its bearer magic related to transportation and in more advanced marks teleportation.
 
 Members of [House Orien](orien.html) use the Mark of Passage to aid them in their own travels as well as in their `Couriers Guild`, carrying packages, cargo and passengers great distances all across Khorvaire. Marked members are often lightning rail overseers and caravan guides. Unmarked house members generally operate within a smaller range, such as a single city or small region as mundane couriers.

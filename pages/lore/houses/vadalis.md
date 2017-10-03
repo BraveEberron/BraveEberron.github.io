@@ -4,7 +4,7 @@ permalink: vadalis.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Vadalis is a human dragonmarked house throughout Khorvaire though their main operation is centered in the Eldeen Reaches having migrated there almost 2,000 years ago. The house's most significant trade is in the breeding and training of animals.
 

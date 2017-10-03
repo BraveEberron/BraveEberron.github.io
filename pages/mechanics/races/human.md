@@ -3,7 +3,7 @@ title: Human
 permalink: human.html
 ---
 
-<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 The dominant race of Eberron, humans are originally from the continent of Sarlona but migrated westward nearly 4,000 years ago arriving in the region now known as The Lhazaar Principalities. Over the next century humans spread across the face of Khorvaire establishing settlements that would later evolve into what are now known as the Five Nations.
 

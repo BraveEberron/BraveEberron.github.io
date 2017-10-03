@@ -4,7 +4,7 @@ permalink: blood_of_vol.html
 published: false
 ---
 
-<img src='images/faiths/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/faiths/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 The Blood of Vol is a predominantly human religion that worships no god or deity but instead the divinity that lies within all mortals.
 

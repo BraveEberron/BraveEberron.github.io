@@ -4,7 +4,7 @@ permalink: deneith.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Deneith is a human dragonmarked house whose members are highly-acclaimed mercenaries and bodyguards known for their efficiency and martial skill. Deneith are the muscle of the dragonmarked houses, providing raw power to a nation's army. Taking sides is bad for business, so during the Last War, Deneith remained neutral and provided soldiers to all sides. Now that the war has ended Deneith members are hired for guarding monarchs and chasing down criminals. 
 

@@ -4,7 +4,10 @@ permalink: breland.html
 published: true
 ---
 
+<img src='images/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
+
 Data based on parliamentary census records, 997 YK. 
+
 - **Population**: 3.7 million 
 - **Area**: 1,800,000 square miles 
 - **Sovereign**: Boranel ir’Wynarn 

@@ -4,7 +4,7 @@ permalink: tharashk.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Tharashk is a human and half-orc dragonmarked house that has just recently begun spreading throughout Khorvaire, though it is still heavily based in The Shadow Marches. The house is the second youngest. Its members are renowned prospectors, bounty hunters and inquisitives. Tharashk is the only house to hire monstrous laborers and mercenaries from Droaam, a nation they have an alliance with.  
 

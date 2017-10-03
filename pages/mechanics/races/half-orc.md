@@ -3,7 +3,7 @@ title: Half-Orc
 permalink: half-orc.html
 ---
 
-<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 Half-orcs are rare on Khorvaire, since humans and orcs have never lived in particularly close proximity. In the small, scattered human communities of the Shadow Marches, however, half-orcs are more common, and they can also be found in the western parts of the Eldeen Reaches and Droaam. The orcs of the Shadow Marches live much as the humans do: It is a rustic life, to be sure, but a far cry from their existence as ruthless barbarian hordes in the distant past. Half-orcs are just as civilized as the humans of the region, and often look almost human despite their size and strength.
 

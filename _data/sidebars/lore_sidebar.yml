@@ -26,78 +26,78 @@ entries:
         url: /thrane.html
         output: web
 
-        subfolders:
-        - title: Other Regions
-          output: web
-          subfolderitems:
+        # subfolders:
+        # - title: Other Regions
+        #   output: web
+        #   subfolderitems:
 
-          - title: Darguun
-            url: /darguun.html
-            output: web
+        #   - title: Darguun
+        #     url: /darguun.html
+        #     output: web
 
-          - title: Demon Wastes
-            url: /wastes.html
-            output: web
+        #   - title: Demon Wastes
+        #     url: /wastes.html
+        #     output: web
 
-          - title: Droaam
-            url: /droaam.html
-            output: web
+        #   - title: Droaam
+        #     url: /droaam.html
+        #     output: web
 
-          - title: The Eldeen Reaches
-            url: /eldeen.html
-            output: web
+        #   - title: The Eldeen Reaches
+        #     url: /eldeen.html
+        #     output: web
 
-          - title: Lhazaar Principalities
-            url: /lhazaar.html
-            output: web
+        #   - title: Lhazaar Principalities
+        #     url: /lhazaar.html
+        #     output: web
 
-          - title: The Mror Holds
-            url: /mror.html
-            output: web
+        #   - title: The Mror Holds
+        #     url: /mror.html
+        #     output: web
 
-          - title: Q'barra
-            url: /qbarra.html
-            output: web
+        #   - title: Q'barra
+        #     url: /qbarra.html
+        #     output: web
 
-          - title: The Talenta Plains
-            url: /talena.html
-            output: web
+        #   - title: The Talenta Plains
+        #     url: /talena.html
+        #     output: web
 
-          - title: Valenar
-            url: /valenar.html
-            output: web
+        #   - title: Valenar
+        #     url: /valenar.html
+        #     output: web
 
-          - title: Zilargo
-            url: /zilargo.html
-            output: web
+        #   - title: Zilargo
+        #     url: /zilargo.html
+        #     output: web
 
-    - title: Beyond Khorvaire
-      output: web
-      folderitems:
+    # - title: Beyond Khorvaire
+    #   output: web
+    #   folderitems:
 
-      - title: Aerenal
-        url: /aerenal.html
-        output: web
+    #   - title: Aerenal
+    #     url: /aerenal.html
+    #     output: web
 
-      - title: Argonnessen
-        url: /argonnessen.html
-        output: web
+    #   - title: Argonnessen
+    #     url: /argonnessen.html
+    #     output: web
 
-      - title: Frostfall
-        url: /frostfall.html
-        output: web
+    #   - title: Frostfall
+    #     url: /frostfall.html
+    #     output: web
 
-      - title: Khyber
-        url: /khyber.html
-        output: web
+    #   - title: Khyber
+    #     url: /khyber.html
+    #     output: web
 
-      - title: Sarlona
-        url: /sarlona.html
-        output: web
+    #   - title: Sarlona
+    #     url: /sarlona.html
+    #     output: web
 
-      - title: Xen'drik
-        url: /xendrik.html
-        output: web
+    #   - title: Xen'drik
+    #     url: /xendrik.html
+    #     output: web
     
     - title: History
       output: web

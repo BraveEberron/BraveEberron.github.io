@@ -2,7 +2,7 @@
 title: Mark of Finding
 permalink: mark_finding.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Finding grants a marked creature with abilities related to locating people and objects.
 
 House Tharashk, a family of humans and half-orcs who originated in the Shadow Marches, run House Tharashk and control the Finders Guild. The guild employs all manners of investigators, law enforcement agents as well as treasure and dragonshard hunters. Bounty hunters are also employeed by the guild and rumors hold that secret assassins are also on the pay roll for particularly hard to find enemies. Members of the house without dragonmarks are often mundane but highly skilled investigators as well as prospectors and guides.

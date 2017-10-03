@@ -2,7 +2,7 @@
 title: Mark of Healing
 permalink: mark_healing.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Healing bestows the marked with magic that can cure and aid those in need.
 
 House Vadalis carries the Mark of Handling and through its Handlers Guild controls the breeding of both mundane livestock and more exotic pets and beasts of burden. Those of the house who are unmarked often take up professions as breeders, animal handlers and drivers.

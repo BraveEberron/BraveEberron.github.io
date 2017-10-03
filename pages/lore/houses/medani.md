@@ -4,7 +4,7 @@ permalink: medani.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Medani is a half-elven dragonmarked house and is known as the smallest and one of the youngest houses. However, despite its size and age, its members are seemingly everywhere, working as operatives in various fields such as guards, researchers, advisers, inquisitives and spy-catchers. Unlike most dragonmarked houses, Medani has a strong geographical location as the majority of its members are Brelish nationals and live in Breland.
 

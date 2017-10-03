@@ -3,7 +3,7 @@ title: The Silver Flame
 permalink: silver_flame.html
 ---
 
-<img src='images/faiths/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/faiths/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 The church is divided into two parts; militant and ministry. The ministry oversees administrative functions of the church. The ministry also gives spiritual guidance to the church's members. Every kingdom has a network of priests and bishops who answer to the Council of Flamekeep and then to the Keeper of the Flame. The church militant is comprised of warriors, paladins, clerics, and exorcists. Unlike the ministry, it battles evil rather than evangelize to the people. The soldiers live and train in monastic fortresses, and patrol across the territory of Thrane. The followers of the religion are called the Purified.
 

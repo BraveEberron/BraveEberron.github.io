@@ -4,7 +4,7 @@ permalink: sivis.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Sivis is a gnome dragonmarked house throughout Khorvaire though they remain strongly based out of Zilargo.
 The Sivis dragonmark first appeared around 2800 years ago. The gnomes have carefully cultivated the peoples around them since that time and have remained firmly neutral in all conflicts. So, while most people are suspicious of the devious and conniving nature of gnomes, House Sivis has remained above reproach and their services are now indispensible.

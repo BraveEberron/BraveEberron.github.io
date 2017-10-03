@@ -4,7 +4,7 @@ permalink: kundarak.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Kundarak is a Dwarven house with services focused in security and banking. Their primary customers are those who have enough coin to buy something worth protecting including the wealthy, the powerful, other dragon marked houses and even state governments. They are the wealthiest Dragonmarked House by far and their banking establishments can be found all over Khorvaire. 
 

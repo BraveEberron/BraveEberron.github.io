@@ -2,7 +2,7 @@
 title: Mark of Shadow
 permalink: mark_shadow.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Shadows benefits its bearer with both invasive scrying magic as well as illusory abilities used for deception
 
 The schism that occurred during the Last War between the older house Phiarlan and its offshoot rebel House Thuranni (for more information see the entry on House Phiarlan) has caused the Mark of Shadow to develop within both groups. Both houses still use the marks and their non-magical skills for intelligence gathering, spying, and other covert activities while still pursuing mercantile wealth through entertainers and artisans of all kinds.

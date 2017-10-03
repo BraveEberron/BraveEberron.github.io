@@ -4,12 +4,15 @@ permalink: mournland.html
 published: true
 ---
 
+<img src='images/nations/Cyre.png' alt='{{pages.title}}' style="float:right; width:25%;">
+
 Data based on the Cyran census of 992 YK and accurate as of the Day of Mourning. 
-- **Population**: 1.5 million 
-- **Area**: 1,020,000 square miles 
-- **Sovereign**: Queen Dannel ir’Wynarn 
+
+- **Population**: 1.5 million  
+- **Area**: 1,020,000 square miles  
+- **Sovereign**: Queen Dannel ir’Wynarn  
 - **Capital**: Metrol 
-- **Major Cities**: Making, Eston, Tronish 
+- **Major Cities**: Making, Eston, Tronish  
 - **Climate**: Temperate 
 - **Highest Point**: Kenn Peak, elevation 7,576 feet 
 - **Heraldry**: Crown and bell on a fi eld of green, above a hammer and bellows 

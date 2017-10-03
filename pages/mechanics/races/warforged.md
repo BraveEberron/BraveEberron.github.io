@@ -3,7 +3,7 @@ title: Warforged
 permalink: warforged.html
 ---
 
-<img src='images/races/{{page.title}}.png' alt='{{pages.title}}' style="float:right">
+<img src='images/races/{{page.title}}.png' alt='{{pages.title}}' style="float:right; width:25%;">
 
 Built as mindless machines to fight in the Last War, the warforged developed sentience as a side effect of the arcane experiments that sought to make them the ultimate weapons of destruction. With each successive model that emerged from the creation forges of House Cannith, the warforged evolved until they became a new kind of creature—living constructs.
 

@@ -4,9 +4,12 @@ permalink: aundair.html
 published: true
 ---
 
+<img src='images/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
+
 Data based on census ordered by royal decree, 997 YK. 
+
 - **Population**: 2 million 
-- Area: 560,000 square miles 
+- **Area**: 560,000 square miles 
 **Sovereign**: Queen Aurala ir’Wynarn, heir to Galifar and Regent of the Brightest Realm 
 - **Capital**: Fairhaven 
 - **Major Cities**: Passage, Stormhome 

@@ -2,7 +2,7 @@
 title: Mark of Scribing
 permalink: mark_scribing.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Scribing gives its bearers access to a variety of power related to the written word and communication, often over great distances.
 
 The gnomes of `House Sivis` are the carriers of the Mark of Scribing and through their `Speakers Guild` they offer service as both translators and mediators between different races but also as instant, long distance communication in their more powerful members.

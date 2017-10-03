@@ -4,7 +4,7 @@ permalink: morgrave_university.html
 published: true
 ---
 
-<img src='images/organizations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/organizations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 Morgrave University is not the most reputable institution in Khorvaire. It lacks the resources of the Library of Korranberg or Wynarn University, and many claim that its archaeological activities are infested with smugglers and treasure hunters. While the university lacks the clout of its peers in Korranberg and Aundair, it is much more accessible to young adventurers who have yet to build a reputation.
 

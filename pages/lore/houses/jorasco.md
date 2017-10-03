@@ -4,7 +4,7 @@ permalink: jorasco.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Jorasco is a halfling dragonmarked house throughout Khorvaire, although their house enclave is located in Karrnath though the mark originated among the nomadic tribes on the Talenta Plains.
 

@@ -4,17 +4,20 @@ permalink: thrane.html
 published: true
 ---
 
+<img src='images/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
+
 Data based on military draft records, 996 YK. 
-- Population: 2.3 million 
-- Area: 500,000 square miles 
-- Sovereign: Jaela Daran, Keeper of the Silver Flame 
-- Capital: Flamekeep  
-- Major Cities: Aruldusk, Sigilstar, Thaliost 
-- Climate: Temperate 
-- Highest Point: Trumpet Mountain in the Starpeak Range, elevation 10,965 
-- Heraldry: A silver sword set beneath the symbol of the Silver Flame  
-- Founder: Thalin, second scion of King Jarot 
-- National Motto: “Glory to the Silver Flame.”
+
+- **Population**: 2.3 million 
+- **Area**: 500,000 square miles 
+- **Sovereign**: Jaela Daran, Keeper of the Silver Flame 
+- **Capital**: Flamekeep  
+- **Major Cities**: Aruldusk, Sigilstar, Thaliost 
+- **Climate**: Temperate 
+- **Highest Point**: Trumpet Mountain in the Starpeak Range, elevation 10,965 
+- **Heraldry**: A silver sword set beneath the symbol of the Silver Flame  
+- **Founder**: Thalin, second scion of King Jarot 
+- **National Motto**: “Glory to the Silver Flame.”
 
 ## 5 Edicts of the Church
 1. Trust in the Silver Flame. The Voice of the Silver Flame never lies. It will light your way to glory and salvation. 

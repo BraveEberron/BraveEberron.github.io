@@ -4,7 +4,7 @@ permalink: phiarlan.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Phiarlan is an elven dragonmarked house throughout Khorvaire, although they are now based in Sharn, Breland their former base of operation in Cyre having been destroyed in the Day of Mourning. To the public Phiarlan is a house of entertainment comprised of bards, actors, artists and acrobats though, in secret it is a house of spies.
 

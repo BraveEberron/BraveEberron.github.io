@@ -2,7 +2,7 @@
 title: Mark of Handling
 permalink: mark_handling.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > The Mark of Handling allows the bearer to care for and control various animals.
 
 House Vadalis carries the Mark of Handling and through its Handlers Guild controls the breeding of both mundane livestock and more exotic pets and beasts of burden. Those of the house who are unmarked often take up professions as breeders, animal handlers and drivers.

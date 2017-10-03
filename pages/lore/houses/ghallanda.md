@@ -4,7 +4,7 @@ permalink: ghallanda.html
 published: true
 ---
 
-<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right">
+<img src='images/houses/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 House Ghallanda is a halfling dragonmarked house found throughout Khorvaire. Ghallanda is one of the few Dragonmarked Houses that are not involved with some form of arms dealing or soldiering, instead Ghallanda are Eberron's best hosts dealing in food and shelter.
 

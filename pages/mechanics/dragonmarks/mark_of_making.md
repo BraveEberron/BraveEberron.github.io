@@ -2,7 +2,7 @@
 title: Mark of Making
 permalink: mark_making.html
 ---
-<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right">
+<img src="images/dragonmarks/{{page.title}}.jpg" alt='{{pages.title}}' style="float:right; width:25%;">
 > Those who possess the Mark of Making can mend and create inanimate objects with its power.
 
 `House Cannith` holds power over the Mark of Making and their `Tinkers Guild` is widely travelled and respected. The house also boasts a second guild, the `Fabricators Guild`, made up of members who possess lesser or greater dragonmarks and are able to not only mend broken items but create entirely new ones. Those who are not marked usually take on roles well off artisans or in rarer cases mundane tinkers.
