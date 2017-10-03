@@ -1,3 +1,8 @@
+---
+title: Special Materials
+permalink: special_materials.html
+---
+
 #### Uru
 Details. A objects made of this material can be enchanted with ease and will maintain it's magical power far longer than should be possible. When rolling a depletion die for the magical effect stored in an object made of Uru, you roll a d8. The object is also capable of holding more charges depending on it's size.
 
@@ -13,5 +18,4 @@ Light armor|+2|+2000
 Medium armor|+4|+8000
 Heavy armor|+6|+16000
 1 lbs.|+1|+500
-
 

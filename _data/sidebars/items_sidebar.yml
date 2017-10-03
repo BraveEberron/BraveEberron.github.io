@@ -7,19 +7,19 @@ entries:
       folderitems:
 
       - title: Weapons
-        url: /aundair.html
+        url: /mundane_weapons.html
         output: web
 
       - title: Armor
-        url: /breland.html
+        url: /mundane_armor.html
         output: web
 
       - title: Gear
-        url: /mournland.html
+        url: /mundane_gear.html
         output: web
 
       - title: Materials
-        url: /karrnath.html
+        url: /special_materials.html
         output: web
 
     - title: Cyphers
@@ -54,22 +54,9 @@ entries:
       output: web
       folderitems:
 
-      - title: Creation of the World
-        url: /creation_story.html
+      - title: Dragonshards
+        url: /dragonshards.html
         output: web
-      
-      - title: The Last War
-        url: /lastwar.html
-        output: web
-
-      - title: The Day of Mourning
-        url: /day_of_mourning.html
-        output: web
-
-      - title: The Treaty of Thronehold
-        url: /treaty_of_thronehold.html
-        output: web
-    
     
 
 
