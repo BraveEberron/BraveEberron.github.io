@@ -26,28 +26,24 @@ entries:
       output: web
       folderitems:
 
-      - title: Aerenal
-        url: /aerenal.html
+      - title: Series 1 Potions
+        url: /cypher_potions.html
         output: web
 
-      - title: Argonnessen
-        url: /argonnessen.html
+      - title: Series 2 Scrolls
+        url: /cypher_scrolls.html
         output: web
 
-      - title: Frostfall
-        url: /frostfall.html
+      - title: Series 3 Figurines
+        url: /cypher_figurines.html
         output: web
 
-      - title: Khyber
-        url: /khyber.html
+      - title: Series 4 Gems
+        url: /cypher_gems.html
         output: web
 
-      - title: Sarlona
-        url: /sarlona.html
-        output: web
-
-      - title: Xen'drik
-        url: /xendrik.html
+      - title: Series 5 D&D Spells
+        url: /cypher_spells.html
         output: web
     
     - title: Artifacts
