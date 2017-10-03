@@ -1,4 +1,4 @@
 ---
-title: Pathfinder Spells
+title: D&D Spells
 permalink: cypher_spells.html
 ---
