@@ -175,66 +175,86 @@ entries:
         url: /vadalis.html
         output: web
 
+    - title: Faiths
+      output: web
+      folderitems:
+
+      - title: The Sovereign Host
+        url: /sovereign_host.html
+        output: web
+
+      - title: The Dark Six
+        url: /dark_six.html
+        output: web
+
+      - title: The Silver Flame
+        url: /silver_flame.html
+        output: web
+
+      # - title: Blood of Vol
+      #   url: /blood_of_vol.html
+      #   output: web
+
     - title: Organizations
       output: web
       folderitems:
 
-      - title: The Aurum
-        url: /aurum.html
-        output: web
+      # - title: The Aurum
+      #   url: /aurum.html
+      #   output: web
 
-      - title: The Blood of Vol
-        url: /blood_of_vol.html
-        output: web
+      # - title: The Blood of Vol
+      #   url: /blood_of_vol.html
+      #   output: web
 
-      - title: The Chamber
-        url: /chamber.html
-        output: web
+      # - title: The Chamber
+      #   url: /chamber.html
+      #   output: web
 
-      - title: Church of the Siler Flame
-        url: /church_of_the_silver_flame.html
-        output: web
+      # - title: Church of the Siler Flame
+      #   url: /church_of_the_silver_flame.html
+      #   output: web
 
-      - title: Cults of the Dragon Below
-        url: /cults_of_the_dragon_below.html
-        output: web
+      # - title: Cults of the Dragon Below
+      #   url: /cults_of_the_dragon_below.html
+      #   output: web
 
-      - title: The Dreaming Dark
-        url: /dreaming_dark.html
-        output: web
+      # - title: The Dreaming Dark
+      #   url: /dreaming_dark.html
+      #   output: web
 
-      - title: The Gatekeepers
-        url: /gatekeepers.html
-        output: web
+      # - title: The Gatekeepers
+      #   url: /gatekeepers.html
+      #   output: web
 
-      - title: The Library of Korranberg
-        url: /library_of_korranberg.html
-        output: web
+      # - title: The Library of Korranberg
+      #   url: /library_of_korranberg.html
+      #   output: web
 
-      - title: The Lords of Dust
-        url: /lords_of_dust.html
-        output: web
+      # - title: The Lords of Dust
+      #   url: /lords_of_dust.html
+      #   output: web
 
-      - title: Morgrave University
-        url: /morgrave_university.html
-        output: web
+      # - title: Morgrave University
+      #   url: /morgrave_university.html
+      #   output: web
 
-      - title: Order of the Emerald Claw
-        url: /order_of_the_emerald_claw.html
-        output: web
+      # - title: Order of the Emerald Claw
+      #   url: /order_of_the_emerald_claw.html
+      #   output: web
 
-      - title: The Royal Families
-        url: /royal_families.html
-        output: web
+      # - title: The Royal Families
+      #   url: /royal_families.html
+      #   output: web
 
-      - title: The Tweleve
-        url: /tweleve.html
-        output: web
+      # - title: The Tweleve
+      #   url: /tweleve.html
+      #   output: web
 
-      - title: Wardens of the Wood
-        url: /wardens_of_the_wood.html
-        output: web
+      # - title: Wardens of the Wood
+      #   url: /wardens_of_the_wood.html
+      #   output: web
 
-      - title: The Wayfinder Foundation
-        url: /wayfinder_foundation.html
-        output: web
+      # - title: The Wayfinder Foundation
+      #   url: /wayfinder_foundation.html
+      #   output: web
