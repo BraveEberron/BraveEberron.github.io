@@ -9,7 +9,7 @@ With both humans and lycanthropes among their distant ancestors, shifters posses
 
 ## Starting Ability
 
-SHIFTING TRAITS: choose 2 different traits at creation. 
+**SHIFTING TRAITS**: choose 2 different traits at creation. 
 
 - gain an edge (*)
 - you have 2 advantage in all running tasks (*)
@@ -21,9 +21,9 @@ SHIFTING TRAITS: choose 2 different traits at creation.
 
 Traits marked with a (*) can later be taken multiple times. Each time it is choosen, it counts as a seperate trait. I.E. armor trait taken twice counts as two seperate traits, but the effects stack.
 
-LEAST SHIFT: (might 4) you gain the benefit of 1 of your shifter traits until you use this ability again. Action.
+**LEAST SHIFT**: (might 4) you gain the benefit of 1 of your shifter traits until you use this ability again. Action.
 
-WEAKNESS TO SILVER: when struck by an attack with the silver quality, your intellect pool is reduced by 1. If you are in your shifted form, your intellect pool is also reduced by the number of shifter traits you have active. 
+**WEAKNESS TO SILVER**: when struck by an attack with the silver quality, your intellect pool is reduced by 1. If you are in your shifted form, your intellect pool is also reduced by the number of shifter traits you have active. 
 
 ## Marks available:
 None. 

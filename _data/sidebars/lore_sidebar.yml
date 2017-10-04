@@ -191,9 +191,9 @@ entries:
         url: /silver_flame.html
         output: web
 
-      # - title: Blood of Vol
-      #   url: /blood_of_vol.html
-      #   output: web
+      - title: Blood of Vol
+        url: /blood_of_vol.html
+        output: web
 
     - title: Organizations
       output: web

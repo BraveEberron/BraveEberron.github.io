@@ -10,11 +10,11 @@ Built as mindless machines to fight in the Last War, the warforged developed sen
 Warforged are renowned for their combat prowess, their size, and their single-minded focus. They make steadfast allies and fearsome enemies.
 
 ## Starting Ability
-FLESH OF STONE METAL AND WOOD: You gain +1 to armor, 3 additional points to your might pool and 3 additional points to your speed pool. Enabler.
+**FLESH OF STONE METAL AND WOOD**: You gain +1 to armor, 3 additional points to your might pool and 3 additional points to your speed pool. Enabler.
 
-LIVING CONSTRUCT: Even though you were constructed, you are a humanoid. You are immune to disease. You do not need to breathe, eat or drink, but you can ingest food or drink if you wish.
+**LIVING CONSTRUCT**: Even though you were constructed, you are a humanoid. You are immune to disease. You do not need to breathe, eat or drink, but you can ingest food or drink if you wish.
 
-SPECIAL HEALING: Traditional healing skills, medicines, and techniques work only half as well for you. Each time you start at full health, the first 5 points of damage you take can never be healed in these ways or recovered normally. Instead, you must use repairing skills and abilities to restore those points. For example, if you start with a full Might Pool of 10 and take 8 points of damage, you can use recovery rolls to restore 3 points, but the remaining 5 points must be restored using repairing methods. The difficulty of the task is equal to the number of points of damage sustained.
+**SPECIAL HEALING**: Traditional healing skills, medicines, and techniques work only half as well for you. Each time you start at full health, the first 5 points of damage you take can never be healed in these ways or recovered normally. Instead, you must use repairing skills and abilities to restore those points. For example, if you start with a full Might Pool of 10 and take 8 points of damage, you can use recovery rolls to restore 3 points, but the remaining 5 points must be restored using repairing methods. The difficulty of the task is equal to the number of points of damage sustained.
 
 ## Marks available:
 None.
