@@ -8,7 +8,9 @@ permalink: shifter.html
 With both humans and lycanthropes among their distant ancestors, shifters posses just a small portion of their forefathers' shape-shifting abilities. They cannot transform wholly into an animal but can instead shift parts of their body to become animal-like for short periods of time. In 832 YK the Church of the Silver Flame led an inquisition to wipe out all lycanthropes in Khorvaire, Shifters included. The inquisition lasted fifty years killing most lycanthropes and driving the survivors deep into the Eldeen Reaches.
 
 ## Starting Ability
+
 SHIFTING TRAITS: choose 2 different traits at creation. 
+
 - gain an edge (*)
 - you have 2 advantage in all running tasks (*)
 - you have 2 advantage in all jumping tasks (*)
@@ -27,6 +29,7 @@ WEAKNESS TO SILVER: when struck by an attack with the silver quality, your intel
 None. 
 
 ## Additional Type Options:
+
 ### Tier 1
 **LESSER SHIFT**: (might 5) you gain the benefit of up to 2 of your shifter traits until you use this ability again. Action.
 

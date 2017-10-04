@@ -1,17 +1,26 @@
 ---
 title: Dragonshards
 permalink: dragonshards.html
+toc: true
 ---
 
-## Siberys Shard Items
-**Dragonmark Focus**. The simplest and most common form of dragonshard items, a dragonshard focus is an amulet holding a small Siberys shard. This shard is attuned to enhance a specific dragonmark. When worn by a person whose mark matches the stone, the wearer gains a free focus to increase the power of the rituals they perform with the mark.
+<img src='images/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
 
-Price. +1 effort 2,000. +2 effort 4,000. +3 effort 8,000. +4 effort 16,000.
+Dragonshards are translucent stones with pulsating veins of color within them. They can be found in various parts of Eberron, and come in three distinct varieties, varying in color, location, and uses. Dragonshards are used to enhance the powers of a Dragonmark, or in the creation of magic items, artifacts, or constructs. Dragonshards are important to many of the magic technologies used throughout the Five Nations.
 
-**Dragonshard Reservoir**. Each ring has a rating of Least, Lesser, or Greater. A dragonshard reservoir can store and produce the magical ability required to power a dragonmark ritual. Each day, this object produces 1 point. The reservoir can store 1, 2, or 3 points depending on the rating of the ring. You can spend the points from the ring in place of some or all of the karma to activate a ritual of the similar rating.
+## Siberys Dragonshards
+Siberys dragonshards are golden in color and fall from the Ring of Siberys, which means they are usually found on the surface in equatorial regions of Eberron. Siberys dragonshards are the rarest of the three varieties, and are sold in quantities only in Stormreach on the continent of Xen'Drik, or in Sharn on Khorvaire. Siberys dragonshards are most closely linked with Dragonmarks and are often used to enhance Dragonmark abilities. It is rumored that each Siberys dragonshard has in it a dragonmark pattern, but the shard has to be cut just right for it to be seen.
 
-A character must wear the ring for 24 hours before it starts to create charges and it will stop producing if another Dragonshard reservoir of the same rating is attuned to the character.
+[Click here for additional details on Siberys Shards](shard_siberys.html)
 
-Price. Least 4,000. Lesser 16,000. Greater 32,000.
+## Khyber Dragonshards
+Khyber dragonshards are generally a dark blue or black and can be found beneath the surface of Eberron in deep underground caverns. While, Siberys dragonshards are the hardest to find, Khyber dragonshards are the most dangerous to obtain of because of the denizens lurking in Khyber. Khyber dragonshards have an affinity for binding, and are most notable for their use in crafting bound-elemental items, such as the Lightning Rail.
+
+[Click here for additional details on Khyber Shards](shard_khyber.html)
+
+## Eberron Dragonshards
+Eberron dragonshards, also known as bloodstones, are typically pink in color and can be found within egg-shaped stones buried beneath top-soil, or the watery muck in swampy regions. Eberron dragonshards are the most common of the three varieties, especially on the continent of Khorvaire. Like other dragonshards, they are used in the creation of magic items, but have a broader spectrum of uses than the other types of dragonshards.
+
+[Click here for additional details on Eberron Shards](shard_eberron.html)
 
 

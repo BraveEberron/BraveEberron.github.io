@@ -10,9 +10,9 @@ entries:
         url: /character_creation.html
         output: web
 
-      - title: Artifact Charges
-        url: /artifact_charges.html
-        output: web
+      # - title: Artifact Charges
+      #   url: /artifact_charges.html
+      #   output: web
 
       - title: Companion Rolls
         url: /companion_rolls.html

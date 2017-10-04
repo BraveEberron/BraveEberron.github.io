@@ -19,6 +19,8 @@ Data based on military draft records, 994 YK.
 - **Founder**: Kaius I, third scion of King Jarot 
 - **National Motto**: “Death holds no terror.”
 
+<img src='images/maps/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
+
 ## 5 Things Every Karrn Knows
 1. How to play Conqueror. This chesslike board game reputedly invented by Karrn the Conqueror is enjoyed across Khorvaire. But in Karrnath, it’s the national pastime and a popular way to spend long, wintry nights. 
 2. Their own family trees, going back at least four generations. The Blood of Vol has encouraged interest in genealogy. Combined with a Karrn’s natural pride in heritage, it’s not surprising for everyone to know their families well. Two Karrns who meet in a tavern will often start a conversation by mentioning their ancestors, trying to find a common link. 

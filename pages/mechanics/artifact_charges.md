@@ -1,8 +1,9 @@
 ---
 title: Artifact Charges
 permalink: artifact_charges.html
+published: false
 ---
-In this system the rules for artifacts has been modified to allow for a gareentte that an artifact can be used several times. 
+In this system the rules for artifacts has been modified to allow for a guarantee that an artifact can be used several times. 
 
 ARTIFACT LEVEL|TOTAL CHARGES
 ---|---

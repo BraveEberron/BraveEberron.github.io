@@ -19,6 +19,8 @@ Data based on military draft records, 996 YK.
 - **Founder**: Thalin, second scion of King Jarot 
 - **National Motto**: “Glory to the Silver Flame.”
 
+<img src='images/maps/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
+
 ## 5 Edicts of the Church
 1. Trust in the Silver Flame. The Voice of the Silver Flame never lies. It will light your way to glory and salvation. 
 2. Heed the words of the Keeper. The Keeper of the Flame is your emissary. Through the Keeper, the Silver Flame speaks. 

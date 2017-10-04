@@ -19,6 +19,8 @@ Data based on the Cyran census of 992 YK and accurate as of the Day of Mourning.
 - **Founder**: Mishann, first scion of King Jarot 
 - **National Motto**: “What our dreams imagine, our hands create.”
 
+<img src='images/maps/nations/Cyre.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
+
 ## 5 Things Every Cyran
 1. Where they were on the Day of Mourning. No Cyran will ever forget that terrible day and how they survived as so many others did not. “Tomorrow in Cyre” has become an expression of hope, a reflection of sadness, and a promise to win back what has been lost. 
 2. Some form of artistic expression. Cyran are artists to their core, whether that art takes the form of drawing, painting, sculpture, song, or arcane spell. Cyrans love to experiment with art, pushing the bor-ders and shocking others with just how far they will go to advance the form. 

@@ -50,8 +50,20 @@ entries:
       output: web
       folderitems:
 
-      - title: Dragonshards
+      - title: Dragonshards Overview
         url: /dragonshards.html
+        output: web
+
+      - title: Siberys Artifacts
+        url: /shards_siberys.html
+        output: web
+
+      - title: Khyber Artifacts
+        url: /shards_khyber.html
+        output: web
+
+      - title: Eberron Artifacts
+        url: /shards_eberron.html
         output: web
     
 

@@ -19,6 +19,8 @@ Data based on parliamentary census records, 997 YK.
 - **Founder**: Wroann, fifth scion of King Jarot National 
 - **Motto**: “We gain what we give.”
 
+<img src='images/maps/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
+
 ## 5 Things Every Brelish Knows
 1. The Galifar Code of Justice. Every citizen of Breland learns at least the basics of the Code of Justice, especially as it pertains to the rights afforded individuals in any situation. This knowledge boils down to the right to defend yourself, the right to confront your accuser, and the right to open debate. Of course, the code con-tains many additional rights and laws, but these tend to be the most important for the average Brelish citizen. 
 2. That different is just different. Tolerant and accepting, the average Brelish believes that different isn’t better or worse, good or bad; it’s just different. Different races, different faiths, different cultures . . . the Brelish, on the whole, are the most accepting and unifying people in Khorvaire. 

@@ -19,6 +19,8 @@ Data based on census ordered by royal decree, 997 YK.
 - **Founder**: Wrogar, fourth scion of King Jarot  
 - **National Motto**: “What we sow in effort, we harvest in good fortune.”
 
+<img src='images/maps/nations/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
+
 ## 5 Things Every Aundairian Knows
 1. The names of fi ne wines and other liquors. Not every Aundairian can afford Bluevine wine or something from the Mount and Moon cellars, but everyone can name his or her favorite labels and engage in animated conversations about the relative merits of each. 
 2. Some signature dueling moves. Aun-dairians love the flash of swordplay, and even the clumsiest citizen can slowly emulate the “twisting lunge” or “dragonhawk riposte” that he sees in the swordfighting demonstrations common in village-square entertainment. 
