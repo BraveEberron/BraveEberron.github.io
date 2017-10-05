@@ -61,10 +61,10 @@ Anything other than attacking provokes extra attack by all in immediate range un
 - **Area Attack**: Roll single attack for all in range, defend normally
 - **Modify Range**: +2 difficult for each multiplier to range. *I.E. Range weapon (Xft), 2Xft +2, 3Xft +4, 4Xft +6*
 
-**Additional Modifiers**: See page 204 for more, situational
-**Missing**: regain points spend on effort, not on ability though
-**Damage**: *See Damage*
-**Modify Damage**: spend an effort to increase the damage of an attack by 3
+**Additional Modifiers**: See page 204 for more, situational.  
+**Missing**: regain points spend on effort, not on ability though.  
+**Damage**: *See Damage*.  
+**Modify Damage**: spend an effort to increase the damage of an attack by 3.  
 
 ### Activate Special Ability
 Roll a check to hit/activate depending on situation.  
@@ -130,7 +130,7 @@ Might -> Speed -> Intellect
 
 ## Armor
 You subtract armor from damage you would take, certain damage types ignore certain types of armor. *I.E. mental damage ignores physical armor*. 
-Physical armor reduces the Speed Pool of its user by twice the rating. This can be reduced by abilities.  
+Physical armor reduces the Speed edge depending on the rating. This can be reduced by abilities.  
 - **Light**: 1 armor
 - **Medium**: 2 armor
 - **Heavy**: 3 armor
