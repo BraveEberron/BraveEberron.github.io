@@ -5,10 +5,7 @@ permalink: mundane_weapons.html
 
 ## Melee
 ### Light Weapons
-Common cost. 2 gold
-
-Example Weapons
-
+Medium melee weapons can be wielded in a single hand and grant the wielder an asset to attack. This leaves the other hand open to wield a second weapon, a shield, or magic item.
 
 Weapon|Cost|Special
 ---|---|---
@@ -21,7 +18,7 @@ Short Sword|10 gold|
 Rapier|10 gold|
 
 ### Medium Weapons
-Common cost. 15 gold
+Medium melee weapons can be wielded in a single hand. This leaves the other hand open to wield a second weapon, a shield, or magic item.
 
 Weapon|Cost|Special
 ---|---|---
@@ -34,7 +31,7 @@ Trident|15 gold|
 Waraxe|12 gold|
 
 ### Heavy Weapons
-Common cost. 50 gold
+Heavy melee weapons require two hands to wield.
 
 Weapon|Cost|Special
 ---|---|---
@@ -47,26 +44,24 @@ Lance|10 gold|
 
 ## Ranged
 ### Light Weapons
-Common cost. 2 gold
+Light ranged weapons can be used in a single hand and do not require an action to reload. They give the wielder an asset to attack but have shorter range and damage.
 
 Weapon|Cost|Range|Special
 ---|---|---|---
 Dart|1 gold|20 feet|does 1 damage
 Dagger|2 gold|20 feet|
-Sling|2 gold|50 feet|
+Sling|2 gold|50 feet|does 1 damage
 
 ### Medium Weapons
-Common cost. 30 gold
+Medium ranged weapons require two hands to wield but can be reloaded in the same turn as they are used.
 
 Weapon|Cost|Range|Special
 ---|---|---|---
-Javelin|1|30 feet|
+Javelin|1|30 feet|75% to break, one-handed
 Short Bow|30|60 feet|
 
 ### Heavy Weapons
-Common cost. 75 gold
-
-Heavy ranged weapons require an action to reload.
+Heavy ranged weapons require two hands to wield and use an action to reload.
 
 Weapon|Cost|Range|Special
 ---|---|---|---
