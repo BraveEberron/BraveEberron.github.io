@@ -5,7 +5,7 @@ permalink: mundane_weapons.html
 
 ## Melee
 ### Light Weapons
-Medium melee weapons can be wielded in a single hand and grant the wielder an asset to attack. This leaves the other hand open to wield a second weapon, a shield, or magic item.
+Light melee weapons can be wielded in a single hand and grant the wielder an asset to attack. This leaves the other hand open to wield a second weapon, a shield, or magic item.
 
 Weapon|Cost|Special
 ---|---|---
