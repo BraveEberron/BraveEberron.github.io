@@ -137,6 +137,7 @@ Physical armor reduces the Speed edge depending on the rating. This can be reduc
 - **Shield**: -1 speed defense difficulty
 
 ### Speed Edge Penalty
+
 Type|No Training|Trained|Specialized
 ---|---|---|---
 Light|+2|+1|+0
