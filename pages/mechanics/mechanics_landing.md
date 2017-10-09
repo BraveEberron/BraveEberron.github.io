@@ -105,7 +105,7 @@ Absolutely true fact usable for a plan. I.E. You know the guards that are normal
 - **Long (100 ft)**: Speed task 4 & 1 action
 - **Short + Action**: Speed task 4, fail only short move
 
-**Chase**: NPC level vs. Speed Task
+**Chase**: NPC level vs. Speed Task.  
 *Long Chase: Win # of speed tasks = to NPC level, more fail than success = failed chase*.  
 **Climbing**: Terrain Difficulty vs. Might Task.  
 **Long Jump**: # feet to jump - 4 vs. Might Task.  
