@@ -130,7 +130,7 @@ Might -> Speed -> Intellect
 
 ## Armor
 You subtract armor from damage you would take, certain damage types ignore certain types of armor. *I.E. mental damage ignores physical armor*. 
-Physical armor reduces the Speed edge depending on the rating. This can be reduced by abilities.  
+Physical armor increases the cost of speed actions depending on the rating. This can be reduced by abilities and Training.  
 - **Light**: 1 armor
 - **Medium**: 2 armor
 - **Heavy**: 3 armor
