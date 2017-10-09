@@ -136,6 +136,15 @@ Physical armor reduces the Speed edge depending on the rating. This can be reduc
 - **Heavy**: 3 armor
 - **Shield**: -1 speed defense difficulty
 
+### Speed Edge Penalty
+Type|No Training|Trained|Specialized
+---|---|---|---
+Light|+2|+1|+0
+Medium|+3|+2|+1
+Heavy|+4|+3|+2
+
+
+
 ## Recovery
 *1d6+tier+bonus*, divide into any number of pools.  
 Roll : Rest Time
