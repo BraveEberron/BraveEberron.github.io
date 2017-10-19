@@ -2,6 +2,7 @@
 title: Eberron Shard Artifacts
 permalink: shards_eberron.html
 ---
+<img src='images/objects/eberron_crystal.png' alt='Eberron Shard' style="float:right; width:35%;">
 
 ## Artifact Rules
 - depletion roll each use

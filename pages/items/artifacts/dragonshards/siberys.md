@@ -4,6 +4,8 @@ permalink: shards_siberys.html
 toc: true
 ---
 
+<img src='images/objects/siberys_crystal.png' alt='Eberron Shard' style="float:right; width:35%;">
+
 ## Artifact Rules
 - no depletion roll
 - enhance dragonmarks

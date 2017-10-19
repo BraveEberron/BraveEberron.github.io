@@ -3,6 +3,8 @@ title: Khyber Shard Artifacts
 permalink: shards_khyber.html
 ---
 
+<img src='images/objects/khyber_crystal.png' alt='Eberron Shard' style="float:right; width:35%;">
+
 ## Artifact Rules
 - no depletion roll
 - elemental effects

@@ -4,7 +4,7 @@ permalink: dragonshards.html
 toc: true
 ---
 
-<img src='images/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
+<img src='images/objects/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:35%;">
 
 Dragonshards are translucent stones with pulsating veins of color within them. They can be found in various parts of Eberron, and come in three distinct varieties, varying in color, location, and uses. Dragonshards are used to enhance the powers of a Dragonmark, or in the creation of magic items, artifacts, or constructs. Dragonshards are important to many of the magic technologies used throughout the Five Nations.
 
@@ -22,5 +22,4 @@ Khyber dragonshards are generally a dark blue or black and can be found beneath 
 Eberron dragonshards, also known as bloodstones, are typically pink in color and can be found within egg-shaped stones buried beneath top-soil, or the watery muck in swampy regions. Eberron dragonshards are the most common of the three varieties, especially on the continent of Khorvaire. Like other dragonshards, they are used in the creation of magic items, but have a broader spectrum of uses than the other types of dragonshards.
 
 [Click here for additional details on Eberron Shards](shard_eberron.html)
-
 
