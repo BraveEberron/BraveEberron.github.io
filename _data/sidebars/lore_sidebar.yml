@@ -251,7 +251,7 @@ entries:
         url: /wayfinder_foundation.html
         output: web
 
- - title: NPCs
+    - title: NPCs
       output: web
       folderitems:
 
