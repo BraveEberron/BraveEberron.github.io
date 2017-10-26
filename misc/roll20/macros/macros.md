@@ -19,3 +19,5 @@
 # Artifacts
 /as "@{character_name}" deals @{level} extra fire damage.
 !ammo @{character_id} charges [[-1*(floor(1d@{die} / @{die})) ]] charge
+
+&{template:default} {{name=@{character_name} }} {{ Effect=@{npcUse} }} {{special=@{npcInteraction} }} {{charges lost= [[1d6<2]] }}
