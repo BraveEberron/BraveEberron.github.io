@@ -3,7 +3,7 @@ title: Prince Oargev
 permalink: oargev.html
 ---
 
-<img src='images/npcs/{{page.title}}.jpg' alt='{{pages.title}}' style="float:right; width:25%;">
+<img src='images/npcs/{{page.title}}.jpeg' alt='{{pages.title}}' style="float:right; width:25%;">
 
 Oargev ir’Wynarn is the last son of Cyre‘s ruling family. He was serving as an ambassador to Breland when the mysterious disaster of the Mourning befell his nation, after which he became the unofficial leader of the Cyran refugees scattered throughout the other domains. 
 
