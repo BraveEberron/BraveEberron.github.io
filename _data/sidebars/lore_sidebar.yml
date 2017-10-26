@@ -250,3 +250,11 @@ entries:
       - title: The Wayfinder Foundation
         url: /wayfinder_foundation.html
         output: web
+
+ - title: NPCs
+      output: web
+      folderitems:
+
+       - title: Prince Oargev
+         url: /oargev.html
+         output: web
