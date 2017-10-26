@@ -17,7 +17,7 @@ Below is a list of what to spend XP. Because of the addition of karma, xp is mea
 - Home: Homebase, cost can be split between party
 - Title: Gain position of importance or prestige
 - Wealth: Gain a large amount of wealth as gift, inheritance, enough to never worry about housing, food, or simple equipment
-- Artifact: Gain an artifact, you must also pay money if buying or rolling to craft
+- Artifact: Gain an artifact (GM approval)
 
 ## Character Advancement: 4 xp
 To advance to next tier you must buy: *Increase Ability*, *Move Towards Perfection*, *Extra Effort*, and either *Skills* or a single *Other Option*. Once an option is purchased it cannot be purchased again until the next tier.  
